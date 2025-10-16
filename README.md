@@ -1,5 +1,6 @@
 # Overview
 This repository contains the design files for the analog lockboxes used in the B219 Cs cavity atom interferometer experiment. 
+![Lockbox installed](/Images/lockbox_installed.jpeg)
 
 # Circuit
 The circuit design, pictured below, is based on the so-called "Holger's World Famous Lockbox" commonly used in the Müller group. 
@@ -9,8 +10,15 @@ One can add an optional external error bias (via SMA) and/or manual error bias (
 
 
 # Board
+![Single out board assembled](/Images/single_out_assembled.jpg)
 ## PCB
 
 ## Front Panel
+![Front panels](Images/v2.1_front_panels.jpg)
 
 ## Back Panel
+![Back panels](Images/back_panels.jpg)
+
+# BoM
+
+# Instructions for Assembly

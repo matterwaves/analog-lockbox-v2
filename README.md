@@ -16,9 +16,11 @@ One can add an optional external error bias (via SMA) and/or manual error bias (
 ## PCB
 
 ## Front Panel
+If using an anodized/powder coated front panel (which looks a lot sexier than plain aluminum), one should countersink the mounting holes to ensure grounding to the main chassis.
 ![Front panels](Images/v2.1_front_panels.jpg)
 
 ## Back Panel
+The back panel is left unanodized for better grounding (since aesthetics don't matter as much).
 ![Back panels](Images/back_panels.jpg)
 
 # BoM

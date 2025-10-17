@@ -1,5 +1,7 @@
 # Overview
-This repository contains the design files for the analog lockboxes used in the B219 Cs cavity atom interferometer experiment. 
+This repository contains the design files for the analog lockboxes used in the B219 Cs cavity atom interferometer experiment. Like most of our PCBs, it is designed to be powered via JST connector from a dedicated [regulated DC power supply board](https://github.com/matterwaves/PSU_linear_reg). The board, with mostly edge facing SMAs and POTs, is designed to be have a narrow profile for space-efficient mounting in a 3U 19" subrack. Our front panels have outer holes to mount within a 3U subrack and inner holes for both the 12HP [Vector Electronics EMB subrack modules](https://vectorelect.com/subrack-ema) and the 104x55 mm [Hammond 1457 series enclosures](https://www.hammfg.com/electronics/small-case/extruded/1457).
+\
+\
 ![Lockbox installed](/Images/lockbox_installed.jpeg)
 
 # Circuit
